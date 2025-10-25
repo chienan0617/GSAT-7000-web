@@ -1,0 +1,9 @@
+{
+  "application-name": "GSAT-7000",
+  "pack-name": "dev.cas.useful.vocabulary",
+  "version": "Alpha v0.0.0",
+  "latest-update": {},
+  "service-id": "9832-15976098531-32",
+  "reset-database": true,
+  "database-version": "v0.0.9"
+}
